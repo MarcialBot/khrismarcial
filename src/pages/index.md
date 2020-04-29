@@ -2,22 +2,18 @@
 templateKey: index-page
 title: I do things on the internet.
 image: /img/1073863.png
-heading: i build strategies and websites.
-subheading: with the help of a lot of coffee.
+heading: I build strategies and websites.
+subheading: With the help of a lot of coffee.
 mainpitch:
   title: My name's Khris.
-  description: >-
-    I'm a problem solver/fullstack software engineer/writer/seo. I've helped
-    businesses like Sandals, Jumio, and TeamiBlends grow their websites through
-    SEO and PR strategies. Right now, I work for a digital marketing agency
-    called From The Future.
-
-
-    I also have a dog named Korra. She's awesome.
-description: Learning new things and taking on new and interesting projects has
-  been my passion. If you'd be interested in having me help improve your
-  business, website, or social media campaign, feel free to take a look at what
-  I have to offer by clicking the button below.
+  description: "Learning new things and taking on new and interesting projects has
+    been my passion. Right now, I work for a digital marketing agency called
+    From The Future. My desires are simple:  Work on things I'm passionate about
+    and help people."
+description: I'm a problem solver/fullstack software engineer/writer/seo. I've
+  helped businesses like Sandals, Jumio, and TeamiBlends grow their websites
+  through SEO and PR strategies. Interested in a website or digital strategy?
+  Take a peek at my services.
 intro:
   blurbs: []
   heading: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
