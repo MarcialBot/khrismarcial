@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: khrismarcial/khrismarcial
+  name: git-gateway
   branch: master
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
