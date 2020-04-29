@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d91212f3-098c-47e3-beff-7f9aebbcf474/deploy-status)](https://app.netlify.com/sites/goofy-heyrovsky-136595/deploys)
+
 # CONTRIBUTING
 
 Contributions are always welcome, no matter how large or small. Before contributing,
