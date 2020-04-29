@@ -1,22 +1,19 @@
 ---
 templateKey: index-page
-title: I have no idea what I'm doing...
+title: I do things on the internet.
 image: /img/1073863.png
-heading: I have no idea
-subheading: Woo hoo
+heading: i build strategies and websites.
+subheading: with the help of a lot of coffee.
 mainpitch:
-  title: It me
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-    commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-    esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-    cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id
-    est laborum.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: My name's Khris.
+  description: I'm a problem solver/fullstack software engineer/writer/seo. I've
+    helped businesses like Sandals, Jumio, and TeamiBlends grow their websites
+    through SEO and PR strategies. I work for a digital marketing agency called
+    From The Future.
+description: Learning new things and taking on new and interesting projects has
+  been my passion. If you'd be interested in having me help improve your
+  business, website, or social media campaign, feel free to take a look at what
+  I have to offer by clicking the button below.
 intro:
   blurbs: []
   heading: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
