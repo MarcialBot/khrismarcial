@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "09c4a2e8ccf7a8959de2";
+/******/ 	var hotCurrentHash = "4dfb187bac8743a3acde";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -93749,7 +93749,7 @@ var _default = Testimonials;
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1588136379821
+      // 1588167614889
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.i, {"hmr":true,"locals":false});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);
@@ -94281,8 +94281,8 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h1", {
     className: "has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen",
     style: {
-      boxShadow: 'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-      backgroundColor: 'rgb(255, 68, 0)',
+      boxShadow: '#C92478 0.5rem 0px 0px, #C92478 -0.5rem 0px 0px',
+      backgroundColor: '#C92478',
       color: 'white',
       lineHeight: '1',
       padding: '0.25em'
@@ -94296,8 +94296,8 @@ var IndexPageTemplate = function IndexPageTemplate(_ref) {
   }, title), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h3", {
     className: "has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen",
     style: {
-      boxShadow: 'rgb(255, 68, 0) 0.5rem 0px 0px, rgb(255, 68, 0) -0.5rem 0px 0px',
-      backgroundColor: 'rgb(255, 68, 0)',
+      boxShadow: '#C92478 0.5rem 0px 0px, #C92478 -0.5rem 0px 0px',
+      backgroundColor: '#C92478',
       color: 'white',
       lineHeight: '1',
       padding: '0.25em'
@@ -94647,7 +94647,7 @@ var ProductPageTemplate = function ProductPageTemplate(_ref) {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h2", {
     className: "has-text-weight-bold is-size-1",
     style: {
-      boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
+      boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #eaeaea',
       backgroundColor: '#f40',
       color: 'white',
       padding: '1rem'
