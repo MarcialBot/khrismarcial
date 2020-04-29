@@ -2,8 +2,8 @@
 templateKey: index-page
 title: I do things on the internet.
 image: /img/1073863.png
-heading: i build strategies and websites.
-subheading: with the help of a lot of coffee.
+heading: I build strategies and websites.
+subheading: With the help of a lot of coffee.
 mainpitch:
   title: My name's Khris.
   description: I'm a problem solver/fullstack software engineer/writer/seo. I've
