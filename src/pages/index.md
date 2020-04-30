@@ -5,11 +5,11 @@ image: /img/1073863.png
 heading: I build strategies and websites.
 subheading: With the help of a lot of coffee.
 mainpitch:
-  title: My name's Khris.
-  description: "Learning new things and taking on new and interesting projects has
-    been my passion. Right now, I work for a digital marketing agency called
-    From The Future. My desires are simple:  Work on things I'm passionate about
-    and help people."
+  title: Learn With Me.
+  description: "I'm Khris. I write about new technologies, projects I'm working
+    on, and digital marketing. Learning new things and taking on new and
+    interesting projects has been my passion. What I want in life is
+    simple:  Create things I'm passionate about and help people. "
 description: I'm a problem solver/fullstack software engineer/writer/seo. I've
   helped businesses like Sandals, Jumio, and TeamiBlends grow their websites
   through SEO and PR strategies. Interested in a website or digital strategy?
