@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'Marcial',
     description:
-      'A blog about my journey, services, and future. I talk about programming, digital marketing, and business',
+      'I talk about programming, digital media, and business',
   },
   plugins: [
     {
