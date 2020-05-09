@@ -6,7 +6,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
   veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
   commodo consequat.
-featuredpost: false
+featuredpost: true
 featuredimage: /img/8043f93a-9a7f-46d1-abee-1bdb1696d3a7.jpeg
 tags:
   - Test
