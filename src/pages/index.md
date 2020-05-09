@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: I do things on the internet.
-image: /img/1073863.png
+image: /img/ben-neale-29w9fimwsr8-unsplash.jpg
 heading: I build strategies and websites.
 subheading: With the help of a lot of coffee.
 mainpitch:
