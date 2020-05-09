@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "50cc4fbe201f3a269ba4";
+/******/ 	var hotCurrentHash = "51699d628100013749fe";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -93777,7 +93777,7 @@ var _default = Testimonials;
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1588998671115
+      // 1589000287141
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.i, {"hmr":true,"locals":false});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);
@@ -94062,7 +94062,8 @@ var BlogPostTemplate = function BlogPostTemplate(_ref) {
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
     className: "column is-11 is-offset-1",
     style: {
-      maxWidth: '700px'
+      maxWidth: '700px',
+      fontSize: '1.25em'
     },
     __self: _this,
     __source: {
@@ -94075,14 +94076,14 @@ var BlogPostTemplate = function BlogPostTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 30,
+      lineNumber: 31,
       columnNumber: 13
     }
   }, title), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33,
+      lineNumber: 34,
       columnNumber: 13
     }
   }, description), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(PostContent, {
@@ -94090,7 +94091,7 @@ var BlogPostTemplate = function BlogPostTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 34,
+      lineNumber: 35,
       columnNumber: 13
     }
   }), tags && tags.length ? /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -94100,14 +94101,14 @@ var BlogPostTemplate = function BlogPostTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 36,
+      lineNumber: 37,
       columnNumber: 15
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 37,
+      lineNumber: 38,
       columnNumber: 17
     }
   }, "Tags"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
@@ -94115,7 +94116,7 @@ var BlogPostTemplate = function BlogPostTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 38,
+      lineNumber: 39,
       columnNumber: 17
     }
   }, tags.map(function (tag) {
@@ -94124,7 +94125,7 @@ var BlogPostTemplate = function BlogPostTemplate(_ref) {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 40,
+        lineNumber: 41,
         columnNumber: 21
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_4__["Link"], {
@@ -94132,7 +94133,7 @@ var BlogPostTemplate = function BlogPostTemplate(_ref) {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 41,
+        lineNumber: 42,
         columnNumber: 23
       }
     }, tag));
@@ -94153,7 +94154,7 @@ var BlogPost = function BlogPost(_ref2) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 66,
+      lineNumber: 67,
       columnNumber: 5
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(BlogPostTemplate, {
@@ -94165,14 +94166,14 @@ var BlogPost = function BlogPost(_ref2) {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 72,
+        lineNumber: 73,
         columnNumber: 11
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 73,
+        lineNumber: 74,
         columnNumber: 13
       }
     }, "" + post.frontmatter.title), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
@@ -94181,7 +94182,7 @@ var BlogPost = function BlogPost(_ref2) {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 74,
+        lineNumber: 75,
         columnNumber: 13
       }
     })),
@@ -94190,7 +94191,7 @@ var BlogPost = function BlogPost(_ref2) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 67,
+      lineNumber: 68,
       columnNumber: 7
     }
   }));

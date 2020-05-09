@@ -25,6 +25,7 @@ export const BlogPostTemplate = ({
             className="column is-11 is-offset-1"
             style={{ 
               maxWidth: '700px',
+              fontSize: '1.25em'
               }}
           >
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
