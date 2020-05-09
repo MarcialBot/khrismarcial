@@ -1,29 +1,22 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: Blog Post
+date: 2020-05-09T01:47:19.405Z
+description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+  eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+  veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+  commodo consequat.
 featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+featuredimage: /img/8043f93a-9a7f-46d1-abee-1bdb1696d3a7.jpeg
 tags:
-  - brewing
-  - chemex
+  - Test
 ---
-![chemex](/img/chemex.jpg)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nunc eget lorem dolor sed viverra ipsum. Pulvinar sapien et ligula ullamcorper malesuada. Elit sed vulputate mi sit amet mauris commodo quis. Placerat orci nulla pellentesque dignissim enim sit amet venenatis urna. Dictum non consectetur a erat. Placerat vestibulum lectus mauris ultrices eros in cursus turpis. Blandit massa enim nec dui nunc mattis. Nunc sed blandit libero volutpat sed cras. Massa enim nec dui nunc. Sed euismod nisi porta lorem. Commodo viverra maecenas accumsan lacus vel facilisis volutpat est. Pharetra magna ac placerat vestibulum lectus mauris. Turpis cursus in hac habitasse platea dictumst quisque. Nisi quis eleifend quam adipiscing. Faucibus interdum posuere lorem ipsum dolor sit amet consectetur. Aliquam sem fringilla ut morbi. Duis at consectetur lorem donec massa sapien faucibus et. Aliquet risus feugiat in ante metus dictum at tempor. Felis donec et odio pellentesque diam volutpat commodo sed egestas.
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
+Amet tellus cras adipiscing enim eu. Arcu dictum varius duis at. Tellus elementum sagittis vitae et leo. Iaculis eu non diam phasellus vestibulum lorem sed risus. Turpis nunc eget lorem dolor sed viverra ipsum. Est pellentesque elit ullamcorper dignissim cras. Posuere ac ut consequat semper viverra nam libero justo. Enim sed faucibus turpis in eu mi. Vulputate enim nulla aliquet porttitor lacus luctus accumsan tortor. Pulvinar mattis nunc sed blandit. At lectus urna duis convallis convallis. Sed adipiscing diam donec adipiscing tristique. Nunc consequat interdum varius sit amet mattis vulputate enim nulla. Pulvinar etiam non quam lacus. Semper feugiat nibh sed pulvinar proin gravida hendrerit. Ipsum consequat nisl vel pretium lectus quam. Nibh praesent tristique magna sit amet purus gravida quis. Suspendisse faucibus interdum posuere lorem ipsum dolor sit amet. Diam donec adipiscing tristique risus nec. Amet commodo nulla facilisi nullam vehicula ipsum a.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+Risus nullam eget felis eget nunc lobortis mattis. Donec massa sapien faucibus et molestie ac feugiat sed lectus. Et molestie ac feugiat sed lectus vestibulum mattis. Felis imperdiet proin fermentum leo vel orci porta. Praesent elementum facilisis leo vel fringilla. Velit aliquet sagittis id consectetur purus. Quis enim lobortis scelerisque fermentum dui. Et egestas quis ipsum suspendisse ultrices gravida. Aliquam ut porttitor leo a diam. Amet luctus venenatis lectus magna fringilla.
 
-## The little secrets of Chemex brewing
+In pellentesque massa placerat duis ultricies lacus sed turpis. Nulla aliquet enim tortor at auctor urna nunc. Adipiscing bibendum est ultricies integer quis auctor elit sed vulputate. Morbi enim nunc faucibus a pellentesque sit amet porttitor eget. Tellus rutrum tellus pellentesque eu tincidunt. Sed ullamcorper morbi tincidunt ornare massa eget egestas purus viverra. Non curabitur gravida arcu ac tortor dignissim convallis aenean. Sagittis purus sit amet volutpat consequat mauris. Tellus orci ac auctor augue mauris augue neque gravida. Netus et malesuada fames ac turpis egestas sed.
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
-
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+Rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat. Feugiat in ante metus dictum at tempor commodo ullamcorper a. Commodo quis imperdiet massa tincidunt. Turpis tincidunt id aliquet risus feugiat in ante metus. Enim facilisis gravida neque convallis. Commodo quis imperdiet massa tincidunt nunc pulvinar sapien et ligula. Aliquet risus feugiat in ante metus dictum. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Laoreet suspendisse interdum consectetur libero id faucibus. Viverra nam libero justo laoreet sit amet. Erat imperdiet sed euismod nisi porta lorem. Pellentesque nec nam aliquam sem. Sed arcu non odio euismod. Feugiat in fermentum posuere urna nec tincidunt praesent semper feugiat. Egestas fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Etiam erat velit scelerisque in dictum non consectetur a erat.
