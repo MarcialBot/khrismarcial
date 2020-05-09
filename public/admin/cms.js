@@ -63,7 +63,7 @@
 /******/
 /******/ 	var hotApplyOnUpdate = true;
 /******/ 	// eslint-disable-next-line no-unused-vars
-/******/ 	var hotCurrentHash = "99ecc6436bda8d8218a0";
+/******/ 	var hotCurrentHash = "50cc4fbe201f3a269ba4";
 /******/ 	var hotRequestTimeout = 10000;
 /******/ 	var hotCurrentModuleData = {};
 /******/ 	var hotCurrentChildModule;
@@ -92536,6 +92536,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _img_social_instagram_svg__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(_img_social_instagram_svg__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _img_social_twitter_svg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../img/social/twitter.svg */ "./src/img/social/twitter.svg");
 /* harmony import */ var _img_social_twitter_svg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_img_social_twitter_svg__WEBPACK_IMPORTED_MODULE_5__);
+/* harmony import */ var _img_github_icon_svg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../img/github-icon.svg */ "./src/img/github-icon.svg");
+/* harmony import */ var _img_github_icon_svg__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_img_github_icon_svg__WEBPACK_IMPORTED_MODULE_6__);
 
 var _jsxFileName = "/Users/khristianmarcial/Projects/khrismarcial/src/components/Footer.js";
 
@@ -92547,6 +92549,7 @@ var _jsxFileName = "/Users/khristianmarcial/Projects/khrismarcial/src/components
 var __signature__ = typeof reactHotLoaderGlobal !== 'undefined' ? reactHotLoaderGlobal.default.signature : function (a) {
   return a;
 };
+
 
 
 
@@ -92569,7 +92572,7 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 11,
+        lineNumber: 12,
         columnNumber: 7
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
@@ -92577,7 +92580,7 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 12,
+        lineNumber: 13,
         columnNumber: 9
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
@@ -92591,7 +92594,7 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 13,
+        lineNumber: 14,
         columnNumber: 11
       }
     })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
@@ -92599,7 +92602,7 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 20,
+        lineNumber: 21,
         columnNumber: 9
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
@@ -92607,7 +92610,7 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 21,
+        lineNumber: 22,
         columnNumber: 11
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
@@ -92615,7 +92618,7 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 22,
+        lineNumber: 23,
         columnNumber: 13
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
@@ -92623,7 +92626,7 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 23,
+        lineNumber: 24,
         columnNumber: 15
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("section", {
@@ -92631,7 +92634,7 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 24,
+        lineNumber: 25,
         columnNumber: 17
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("ul", {
@@ -92639,14 +92642,14 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 25,
+        lineNumber: 26,
         columnNumber: 19
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 26,
+        lineNumber: 27,
         columnNumber: 21
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
@@ -92655,14 +92658,14 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 27,
+        lineNumber: 28,
         columnNumber: 23
       }
     }, "Home")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 31,
+        lineNumber: 32,
         columnNumber: 21
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
@@ -92671,14 +92674,14 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 32,
+        lineNumber: 33,
         columnNumber: 23
       }
     }, "About")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 36,
+        lineNumber: 37,
         columnNumber: 21
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -92689,7 +92692,7 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 37,
+        lineNumber: 38,
         columnNumber: 23
       }
     }, "Admin"))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
@@ -92697,14 +92700,14 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 49,
+        lineNumber: 50,
         columnNumber: 15
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("section", {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 50,
+        lineNumber: 51,
         columnNumber: 17
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("ul", {
@@ -92712,14 +92715,14 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 51,
+        lineNumber: 52,
         columnNumber: 19
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 52,
+        lineNumber: 53,
         columnNumber: 21
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
@@ -92728,14 +92731,14 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 53,
+        lineNumber: 54,
         columnNumber: 23
       }
     }, "Latest Stories")), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("li", {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 57,
+        lineNumber: 58,
         columnNumber: 21
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_2__["Link"], {
@@ -92744,7 +92747,7 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 58,
+        lineNumber: 59,
         columnNumber: 23
       }
     }, "Contact"))))), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("div", {
@@ -92752,7 +92755,7 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 65,
+        lineNumber: 66,
         columnNumber: 15
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -92761,7 +92764,7 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 66,
+        lineNumber: 67,
         columnNumber: 17
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
@@ -92775,7 +92778,7 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 67,
+        lineNumber: 68,
         columnNumber: 19
       }
     })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
@@ -92784,7 +92787,7 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 74,
+        lineNumber: 75,
         columnNumber: 17
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
@@ -92797,8 +92800,32 @@ var Footer = /*#__PURE__*/function (_React$Component) {
       __self: this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 75,
+        lineNumber: 76,
         columnNumber: 19
+      }
+    })), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("a", {
+      title: "github",
+      href: "https://github.com/khrismarcial",
+      target: "_blank",
+      rel: "noopener noreferrer nofollow",
+      __self: this,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 82,
+        columnNumber: 17
+      }
+    }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("img", {
+      src: _img_github_icon_svg__WEBPACK_IMPORTED_MODULE_6___default.a,
+      alt: "Github",
+      style: {
+        width: '1em',
+        height: '1em'
+      },
+      __self: this,
+      __source: {
+        fileName: _jsxFileName,
+        lineNumber: 88,
+        columnNumber: 17
       }
     })))))));
   };
@@ -93750,7 +93777,7 @@ var _default = Testimonials;
 
 // extracted by mini-css-extract-plugin
     if(true) {
-      // 1588971459189
+      // 1588998671115
       var cssReload = __webpack_require__(/*! ./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js */ "./node_modules/mini-css-extract-plugin/dist/hmr/hotModuleReplacement.js")(module.i, {"hmr":true,"locals":false});
       module.hot.dispose(cssReload);
       module.hot.accept(undefined, cssReload);
@@ -94025,7 +94052,7 @@ var BlogPostTemplate = function BlogPostTemplate(_ref) {
       columnNumber: 7
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "columns",
+    className: "columns is-centered is-desktop",
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -94033,7 +94060,10 @@ var BlogPostTemplate = function BlogPostTemplate(_ref) {
       columnNumber: 9
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
-    className: "column is-10 is-offset-1",
+    className: "column is-11 is-offset-1",
+    style: {
+      maxWidth: '700px'
+    },
     __self: _this,
     __source: {
       fileName: _jsxFileName,
@@ -94045,14 +94075,14 @@ var BlogPostTemplate = function BlogPostTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 25,
+      lineNumber: 30,
       columnNumber: 13
     }
   }, title), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 28,
+      lineNumber: 33,
       columnNumber: 13
     }
   }, description), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(PostContent, {
@@ -94060,7 +94090,7 @@ var BlogPostTemplate = function BlogPostTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 29,
+      lineNumber: 34,
       columnNumber: 13
     }
   }), tags && tags.length ? /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("div", {
@@ -94070,14 +94100,14 @@ var BlogPostTemplate = function BlogPostTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 31,
+      lineNumber: 36,
       columnNumber: 15
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("h4", {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 32,
+      lineNumber: 37,
       columnNumber: 17
     }
   }, "Tags"), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("ul", {
@@ -94085,7 +94115,7 @@ var BlogPostTemplate = function BlogPostTemplate(_ref) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 33,
+      lineNumber: 38,
       columnNumber: 17
     }
   }, tags.map(function (tag) {
@@ -94094,7 +94124,7 @@ var BlogPostTemplate = function BlogPostTemplate(_ref) {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 35,
+        lineNumber: 40,
         columnNumber: 21
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(gatsby__WEBPACK_IMPORTED_MODULE_4__["Link"], {
@@ -94102,7 +94132,7 @@ var BlogPostTemplate = function BlogPostTemplate(_ref) {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 36,
+        lineNumber: 41,
         columnNumber: 23
       }
     }, tag));
@@ -94123,7 +94153,7 @@ var BlogPost = function BlogPost(_ref2) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 61,
+      lineNumber: 66,
       columnNumber: 5
     }
   }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(BlogPostTemplate, {
@@ -94135,14 +94165,14 @@ var BlogPost = function BlogPost(_ref2) {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 67,
+        lineNumber: 72,
         columnNumber: 11
       }
     }, /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("title", {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 68,
+        lineNumber: 73,
         columnNumber: 13
       }
     }, "" + post.frontmatter.title), /*#__PURE__*/react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("meta", {
@@ -94151,7 +94181,7 @@ var BlogPost = function BlogPost(_ref2) {
       __self: _this,
       __source: {
         fileName: _jsxFileName,
-        lineNumber: 69,
+        lineNumber: 74,
         columnNumber: 13
       }
     })),
@@ -94160,7 +94190,7 @@ var BlogPost = function BlogPost(_ref2) {
     __self: _this,
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 62,
+      lineNumber: 67,
       columnNumber: 7
     }
   }));
