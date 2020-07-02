@@ -7,7 +7,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
   commodo consequat.
 featuredpost: true
-featuredimage: /img/8043f93a-9a7f-46d1-abee-1bdb1696d3a7.jpeg
+featuredimage: /img/logo.svg
 tags:
   - Test
 ---
