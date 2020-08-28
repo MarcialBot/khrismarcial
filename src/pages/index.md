@@ -6,14 +6,12 @@ heading: I build strategies and websites.
 subheading: With the help of a lot of coffee.
 mainpitch:
   title: I'm Khris Marcial.
-  description: "I write about new technologies, projects I'm working on, and
-    digital marketing. Learning new things and taking on new and interesting
-    projects has been my passion. What I want in life is simple:  Create things
-    I'm passionate about and help people. "
-description: I'm a problem solver/fullstack software engineer/writer/seo. I've
-  helped businesses like Sandals, Jumio, and TeamiBlends grow their websites
-  through SEO and PR strategies. Interested in a website or digital strategy?
-  Take a peek at my services.
+  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+    eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+    veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+    commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit
+    esse cillum dolore eu fugiat nulla pariatur. Excepteur
+description: Yo
 intro:
   blurbs: []
   heading: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
